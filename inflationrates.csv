@@ -1,0 +1,5 @@
+CountryName,CountryCode,IndicatorName,IndicatorCode,2019,2020,2021,2022,2023
+'China',China,'Inflation consumer prices (annual %)','FP.CPI.TOTL.ZG',2.899234164,2.419421895,0.981015136,1.973575557,0.234836829
+'Euro area',EU,'Inflation consumer prices (annual %)','FP.CPI.TOTL.ZG',1.441239669,0.18693814,2.486504381,8.471176456,5.78431555
+'OECD members',OECD,'Inflation consumer prices (annual %)','FP.CPI.TOTL.ZG',1.740712679,0.732851645,2.815288544,8.238032407,5.677678626
+'United States',USA,'Inflation consumer prices (annual %)','FP.CPI.TOTL.ZG',1.812210075,1.233584396,4.697858864,8.002799821,4.116338384
